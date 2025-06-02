@@ -1,0 +1,16 @@
+# Dependencias de Node.js
+node_modules/
+.env
+.next/
+out/
+
+# Archivos de configuración del sistema
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Archivos de compilación
+*.cache

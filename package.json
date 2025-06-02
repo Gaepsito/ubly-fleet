@@ -1,0 +1,17 @@
+{
+  "name": "ubly-fleet-management",
+  "version": "1.0.0",
+  "description": "Aplicación de gestión de flotas para Ubly en Next.js",
+  "author": "Tu Nombre",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {}
+}
